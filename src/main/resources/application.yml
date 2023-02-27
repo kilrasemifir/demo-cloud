@@ -1,6 +1,5 @@
 server:
-  # ${<ENV_VAR>:<DEFAULT_VALUE>}
-  port: ${PORT:8080} # port définit par l'environnement PORT ou 8080 par défaut
+  port: ${PORT:8080} # port definit par l'environnement PORT ou 8080 par defaut
 
 spring:
   data:
