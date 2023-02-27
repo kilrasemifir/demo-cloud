@@ -1,4 +1,4 @@
-package fr.formation.cloud.demo;
+package fr.formation.cloud.demo.utilisateurs;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
