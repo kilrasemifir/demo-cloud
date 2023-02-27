@@ -1,0 +1,9 @@
+server:
+  # ${<ENV_VAR>:<DEFAULT_VALUE>}
+  port: ${PORT:8080} # port définit par l'environnement PORT ou 8080 par défaut
+
+spring:
+  data:
+    mongodb:
+      host: ${MONGO_HOST:localhost}
+      port: ${MONGO_PORT:27017}
