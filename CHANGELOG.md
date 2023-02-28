@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/kilrasemifir/demo-cloud/compare/v1.1.0...v1.2.0) (2023-02-28)
+
+
+### Features
+
+* ajout des emails pour les utilisateurs ([5821714](https://github.com/kilrasemifir/demo-cloud/commit/58217149d3560aab41352d9c2da9d0a9bcc882b4))
+
 ## 1.1.0 (2023-02-28)
 
 
